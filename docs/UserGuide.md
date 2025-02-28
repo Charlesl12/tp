@@ -4,9 +4,11 @@
   pageNav: 3
 ---
 
-# AB-3 User Guide
+# TutorTrack User Guide
 
-AddressBook Level 3 (AB3) is a **desktop app for managing contacts, optimized for use via a  Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, AB3 can get your contact management tasks done faster than traditional GUI apps.
+TutorTrack is a **desktop app for  tutors to manage students' contacts, optimized for use via a  Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). 
+Additionally, it helps to organise student contact details, track lesson schedules, and log student progress. 
+With TutorTrack, tutors can get your contact management tasks done faster than traditional GUI apps, allowing tutors to focus on teaching while maintaining an organised workflow.
 
 <!-- * Table of Contents -->
 <page-nav-print />
